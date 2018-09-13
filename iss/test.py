@@ -1,2 +1,7 @@
-if __name__ == '__main__':
+
+def initialize():
     print('----')
+
+
+if __name__ == '__main__':
+    initialize()
