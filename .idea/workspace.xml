@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8391954-3d95-4a6e-bacf-73f60b0f448e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iss/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/iss/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="e8391954-3d95-4a6e-bacf-73f60b0f448e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +12,7 @@
     <session id="-1316893632">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.opened" value="2" />
@@ -98,6 +95,9 @@
       </pane>
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -153,7 +153,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-2" width="1280" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980111" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
